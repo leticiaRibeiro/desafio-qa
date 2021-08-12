@@ -17,5 +17,3 @@ Criei as automações em duas linguagens. Os projetos estão divididos da seguin
 ## Como executar o projeto
 
 - Instruções para a execução de cada um dos projetos, se encontra no README dentro do diretório de cada projeto.
-
-## Observações
