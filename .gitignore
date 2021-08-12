@@ -3,5 +3,6 @@
 /.idea/workspace.xml
 .idea/
 *.iml
-/target
+*/target
 node_modules/
+package-lock.json
